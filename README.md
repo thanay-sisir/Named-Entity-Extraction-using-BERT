@@ -29,3 +29,5 @@ This project is a Named Entity Recognition (NER) system developed using BERT (Bi
 # Final Otutput 
 ![Screenshot 2025-01-12 000406](https://github.com/user-attachments/assets/4ed94324-54ef-44e7-92dd-6ad3f248713f)
 ![Screenshot 2025-01-12 000813](https://github.com/user-attachments/assets/0352ac99-7702-4836-87d2-fd1020fa4f2b)
+![Screenshot 2025-01-12 012904](https://github.com/user-attachments/assets/f09ed024-a71f-4e28-9532-6dc4f17ecc88)
+
