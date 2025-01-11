@@ -8,6 +8,8 @@ This project is a Named Entity Recognition (NER) system developed using BERT (Bi
 ![Screenshot 2025-01-12 010708](https://github.com/user-attachments/assets/b37889ef-8813-4b72-96e9-cceeca043f16)
 ![Screenshot 2025-01-12 010656](https://github.com/user-attachments/assets/15c93fe8-1fd8-42f8-b7ac-5e87176a77e3)
 ![Screenshot 2025-01-12 010646](https://github.com/user-attachments/assets/00c7cd84-fd20-486c-8a40-c3d68833e011)
+# BERT Model
+![image](https://github.com/user-attachments/assets/49181b36-30a0-4568-b943-eb7a8494699e)
 
 * train.py: Script for training the model with NER and POS tagging.
 * predict.py: Script for making predictions with the trained model.
